@@ -39,5 +39,5 @@ bash ./download.sh
 # 5 🧬 Citation
 
 ```cite
-In preparation.
+Genome Research (2025). DOI:10.1101/gr.281257.125
 ```
